@@ -1,4 +1,4 @@
-# bootstrap-boilerplate-22-06
+# collab-practice-22-06
 
 This is my repository for my html / css project template. It has links to Bootstrap css and js files.
 
